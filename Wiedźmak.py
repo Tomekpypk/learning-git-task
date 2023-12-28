@@ -4,6 +4,6 @@ def Land():
     if ask.upper() in [answer.upper() for answer in accepted_answers]:
         print("good choice")
     else:
-        print("Lol no")
+        print("(‡ಠ╭╮ಠ)")
 
 Land()
